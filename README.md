@@ -1,4 +1,4 @@
-This Python program implements a convolutional neural network (CNN) to classify MNIST digit images. 
+This Python program implements a convolutional neural network (CNN) to classify MNIST digit images. Score = 0.98900
 
 ### Overview
 - **Custom Data Handling:**  
